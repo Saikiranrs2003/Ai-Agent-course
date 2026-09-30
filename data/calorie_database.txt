@@ -7,7 +7,7 @@ Nutritional Information:
 
 This is a cannedfruit food item that provides 62 calories per 100 grams.
 
----
+---66y6
 
 Food: Canned Apricots
 Category: CannedFruit
